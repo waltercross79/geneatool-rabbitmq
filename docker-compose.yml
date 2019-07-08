@@ -1,0 +1,2 @@
+# Needs the RabbitMQ Server
+# Needs another container for the listener/consumer
